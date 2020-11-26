@@ -7,22 +7,17 @@
 Basta rodar:
   pip install -r requirements.txt
   
-O programa é constituído das seguintes bibliotecas:
-Imutils
-OpenCV
-Numpy
-Pillow
+##O programa é constituído das seguintes bibliotecas:
 
+* [Imutils](https://pypi.org/project/imutils/) - Falta Descrever
+* [OpenCV](https://pypi.org/project/opencv/) - Falta Descrever
+* [Numpy](https://pypi.org/project/numpy/) - Falta Descrever
+* [Pillow](https://pypi.org/project/pillow/) - Falta Descrever
 
 ```
 Exemplo..
 ```
-## Fazendo links
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-Template GitHub by:
+Template GitHub by (up: foi desativado):
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
 
