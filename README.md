@@ -1,13 +1,14 @@
-## Trabalho de Conclusão de Curso (em construção...)
+# Trabalho de Conclusão de Curso 
+##### (em construção...)
 
-### Aplicação para avaliar altura de salto vertical
+## Aplicação para avaliar altura de salto vertical
 
 ### Pré-requisitos (bibliotecas para instalação):
 
-Basta rodar:
-  pip install -r requirements.txt
+#### Basta rodar:
+  * pip install -r requirements.txt
   
-## O programa é constituído das seguintes bibliotecas:
+## Bibliotecas:
 
 * [Imutils](https://pypi.org/project/imutils/) - Falta Descrever
 * [OpenCV](https://pypi.org/project/opencv/) - Falta Descrever
