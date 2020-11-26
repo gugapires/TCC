@@ -1,11 +1,8 @@
-# Trabalho de Conclusão de Curso 
-##### (em construção...)
+# Trabalho de Conclusão de Curso ##### (em construção...)
 
-## Aplicação para avaliar altura de salto vertical
+### Aplicação para avaliar altura de salto vertical
 
-### Pré-requisitos (bibliotecas para instalação):
-
-#### Basta rodar:
+### Pré-requisitos, basta rodar:
   * pip install -r requirements.txt
   
 ## Bibliotecas:
