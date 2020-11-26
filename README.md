@@ -2,6 +2,9 @@
 
 ## * Aplicação para avaliar altura de salto vertical
 
+#### Para rodar a aplicação beta CLI (command line interface), basta clicar duas vezes no script "main".
+#### Para rodar a "interface tkinter", basta clicar duas vezes no script "menu".
+
 ### Pré-requisitos, basta rodar:
   * pip install -r requirements.txt
   
