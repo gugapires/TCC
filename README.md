@@ -19,6 +19,6 @@
 Exemplo..
 ```
 
-Template GitHub by (up: foi desativado):
-* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
+Template GitHub by:
+* https://github.com/othneildrew/Best-README-Template
 
