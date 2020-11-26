@@ -1,11 +1,21 @@
-# Projeto GPTER (em construção...)
+# Trabalho de Conclusão de Curso (em construção...)
 
-## Uma aplicação para avaliação de desempenho de saltos verticais
+## Aplicação para avaliar altura de salto vertical
 
 ### Pré-requisitos (bibliotecas para instalação):
 
+Basta rodar:
+  pip install -r requirements.txt
+  
+O programa é constituído das seguintes bibliotecas:
+Imutils
+OpenCV
+Numpy
+Pillow
+
+
 ```
-Falta descrever como rodar o programa e o que é o programa o que ele faz??
+Exemplo..
 ```
 ## Fazendo links
 
@@ -13,6 +23,6 @@ Falta descrever como rodar o programa e o que é o programa o que ele faz??
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-Aqui tem o endereço de onde eu tirei essa formatação
+Template GitHub by:
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md
 
