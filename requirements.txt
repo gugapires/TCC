@@ -1,0 +1,10 @@
+# pip install -r requirements.txt 
+
+opencv-python==4.4.0.46
+numpy==1.19.4
+imutils==0.5.3
+Pillow==8.0.1
+
+# threading
+# cv2
+# argparse
